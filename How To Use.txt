@@ -1,0 +1,5 @@
+1:Open File
+2:Wait To Load
+3:Choose Crash/Mines/Towers/Cups/Roulette
+4:Enter Round Id
+5:And Farm Robux
